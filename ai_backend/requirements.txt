@@ -1,0 +1,26 @@
+# ============================================================
+# AI Presentation & Public Speaking Coach - Python Dependencies
+# ============================================================
+
+# Web Framework
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+
+# Computer Vision & AI
+opencv-python-headless==4.10.0.84
+mediapipe==1.0.0
+numpy>=2.0.0
+
+# Audio Processing & Speech Recognition
+SpeechRecognition==3.12.0
+pydub==0.25.1
+
+# Google Generative AI (Gemini via Google AI Studio)
+google-generativeai==0.8.4
+
+# CORS & HTTP
+python-dotenv==1.0.1
+
+# Utilities
+Pillow>=11.2.0

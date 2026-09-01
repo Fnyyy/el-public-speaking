@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+ai_backend/venv/
+ai_backend/.venv/
+ai_backend/__pycache__/
+uploads/
+temp/
+*.mp4
+*.webm
+*.avi
+
+# PHP / Laravel
+vendor/
+web_frontend/vendor/
+node_modules/
+web_frontend/node_modules/
+web_frontend_custom/node_modules/
+.env
+.env.backup
+.env.production
+*.log
+web_frontend/storage/*.key
+web_frontend/storage/logs/*.log
+web_frontend/storage/framework/cache/data/*
+web_frontend/storage/framework/sessions/*
+web_frontend/storage/framework/views/*
+web_frontend/public/hot
+web_frontend/public/storage
+
+# IDE & OS
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

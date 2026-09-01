@@ -1,0 +1,17 @@
+# ============================================================
+# Docker Ignore - Keep container clean and small
+# ============================================================
+__pycache__
+*.py[cod]
+.env
+.env.example
+.git
+.gitignore
+*.md
+venv
+.venv
+uploads
+temp
+*.mp4
+*.webm
+*.avi

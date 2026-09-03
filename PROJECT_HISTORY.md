@@ -13,3 +13,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-02 17:02:05]** `test: add unit tests for eye contact gaze direction`
 - **[2026-09-02 21:17:44]** `feat: implement real-time webcam processing loop`
 - **[2026-09-03 08:15:03]** `test: verify posture angle calculation with synthetic landmarks`
+- **[2026-09-03 09:30:37]** `fix: handle microphone permission denied gracefully in UI`

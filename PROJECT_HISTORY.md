@@ -28,3 +28,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-06 11:29:05]** `style: improve camera recording border and status indicator`
 - **[2026-09-07 10:44:32]** `feat: add dark mode support to frontend presentation dashboard`
 - **[2026-09-07 11:44:37]** `docs: write comments explaining gaze tracking vector math`
+- **[2026-09-07 13:15:54]** `refactor: clean up audio preprocessing and temporary file handling`

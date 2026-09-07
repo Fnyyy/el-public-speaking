@@ -30,3 +30,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-07 11:44:37]** `docs: write comments explaining gaze tracking vector math`
 - **[2026-09-07 13:15:54]** `refactor: clean up audio preprocessing and temporary file handling`
 - **[2026-09-07 16:49:12]** `style: improve camera recording border and status indicator`
+- **[2026-09-07 17:48:57]** `refactor: streamline Gemini prompt template for constructive coaching`

@@ -38,3 +38,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-08 18:14:37]** `feat: integrate speech recognition for audio transcription`
 - **[2026-09-08 20:31:20]** `feat: add Indonesian filler words dictionary (eh, um, anu, ya)`
 - **[2026-09-08 21:02:09]** `refactor: restructure Laravel controllers and service classes`
+- **[2026-09-09 08:12:24]** `fix: correct calculation of speech pause durations`

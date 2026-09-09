@@ -41,3 +41,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-09 08:12:24]** `fix: correct calculation of speech pause durations`
 - **[2026-09-09 08:18:32]** `refactor: standardize status codes and error responses`
 - **[2026-09-09 14:24:26]** `feat: add head pose estimation (pitch, yaw, roll)`
+- **[2026-09-09 14:38:15]** `fix: correct calculation of speech pause durations`

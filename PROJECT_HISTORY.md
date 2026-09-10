@@ -48,3 +48,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-10 12:21:05]** `feat: implement session history list and detail views`
 - **[2026-09-10 12:53:50]** `feat: build video stream frame buffer pipeline`
 - **[2026-09-10 15:17:50]** `feat: build video stream frame buffer pipeline`
+- **[2026-09-10 16:26:54]** `fix: prevent memory leak in OpenCV video capture release`

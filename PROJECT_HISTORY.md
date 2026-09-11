@@ -54,3 +54,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-11 10:30:37]** `refactor: extract posture calculation thresholds into configuration`
 - **[2026-09-11 14:17:08]** `chore: update composer dependencies and package lock`
 - **[2026-09-11 15:23:39]** `chore: add database seeder for initial practice topics`
+- **[2026-09-11 16:10:23]** `feat: integrate speech recognition for audio transcription`

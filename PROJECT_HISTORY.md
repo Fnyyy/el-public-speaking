@@ -58,3 +58,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-11 19:37:40]** `feat: implement speech analysis dashboard and charts`
 - **[2026-09-12 18:10:33]** `chore: configure storage symlink for public uploads`
 - **[2026-09-13 12:16:18]** `feat: support audio playback and waveform visualization`
+- **[2026-09-14 12:02:24]** `fix: eliminate jitter in eye contact tracking landmarks`

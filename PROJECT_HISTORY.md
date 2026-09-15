@@ -68,3 +68,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-15 11:01:11]** `perf: leverage numpy vectorization for faster landmark computations`
 - **[2026-09-15 13:17:09]** `feat: add Indonesian filler words dictionary (eh, um, anu, ya)`
 - **[2026-09-15 13:29:11]** `fix: resolve frame drift during prolonged recording sessions`
+- **[2026-09-15 13:42:06]** `style: improve camera recording border and status indicator`

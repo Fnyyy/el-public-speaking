@@ -74,3 +74,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-16 11:44:20]** `fix: resolve frame drift during prolonged recording sessions`
 - **[2026-09-16 14:40:19]** `feat: setup REST API endpoints for Laravel to Python communication`
 - **[2026-09-16 15:08:11]** `style: improve camera recording border and status indicator`
+- **[2026-09-16 18:49:11]** `fix: prevent memory leak in OpenCV video capture release`

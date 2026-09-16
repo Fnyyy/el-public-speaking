@@ -75,3 +75,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-16 14:40:19]** `feat: setup REST API endpoints for Laravel to Python communication`
 - **[2026-09-16 15:08:11]** `style: improve camera recording border and status indicator`
 - **[2026-09-16 18:49:11]** `fix: prevent memory leak in OpenCV video capture release`
+- **[2026-09-16 20:30:25]** `fix: correct audio sampling rate conversion to 16kHz`

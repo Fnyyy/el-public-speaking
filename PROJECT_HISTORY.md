@@ -77,3 +77,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-16 18:49:11]** `fix: prevent memory leak in OpenCV video capture release`
 - **[2026-09-16 20:30:25]** `fix: correct audio sampling rate conversion to 16kHz`
 - **[2026-09-17 09:46:14]** `test: add unit tests for filler word tokenization`
+- **[2026-09-17 10:10:40]** `refactor: extract posture calculation thresholds into configuration`

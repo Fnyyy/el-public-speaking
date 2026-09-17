@@ -76,3 +76,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-16 15:08:11]** `style: improve camera recording border and status indicator`
 - **[2026-09-16 18:49:11]** `fix: prevent memory leak in OpenCV video capture release`
 - **[2026-09-16 20:30:25]** `fix: correct audio sampling rate conversion to 16kHz`
+- **[2026-09-17 09:46:14]** `test: add unit tests for filler word tokenization`

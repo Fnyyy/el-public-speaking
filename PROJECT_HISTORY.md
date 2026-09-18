@@ -84,3 +84,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-17 21:04:51]** `docs: add guidelines for running AI backend locally`
 - **[2026-09-18 12:48:06]** `fix: prevent duplicate submission of practice speech recordings`
 - **[2026-09-18 13:23:06]** `refactor: simplify database query in session history controller`
+- **[2026-09-18 17:09:45]** `feat: implement articulate speech clarity index`

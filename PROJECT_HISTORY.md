@@ -83,3 +83,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-17 20:15:14]** `feat: add Laravel authentication and session management`
 - **[2026-09-17 21:04:51]** `docs: add guidelines for running AI backend locally`
 - **[2026-09-18 12:48:06]** `fix: prevent duplicate submission of practice speech recordings`
+- **[2026-09-18 13:23:06]** `refactor: simplify database query in session history controller`

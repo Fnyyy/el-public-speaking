@@ -98,3 +98,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-21 21:06:58]** `chore: update Python dependencies in requirements.txt`
 - **[2026-09-22 08:48:59]** `feat: initialize FastAPI microservice structure`
 - **[2026-09-22 10:31:24]** `style: improve camera recording border and status indicator`
+- **[2026-09-22 11:57:17]** `refactor: decouple video streaming logic from analysis worker`

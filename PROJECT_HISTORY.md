@@ -105,3 +105,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-23 10:32:14]** `refactor: decouple video streaming logic from analysis worker`
 - **[2026-09-23 10:35:25]** `fix: resolve frame drift during prolonged recording sessions`
 - **[2026-09-23 11:12:07]** `refactor: optimize landmarks distance calculation using numpy`
+- **[2026-09-23 12:25:51]** `feat: create recording interface with live camera preview`

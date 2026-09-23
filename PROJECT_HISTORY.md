@@ -107,3 +107,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-23 11:12:07]** `refactor: optimize landmarks distance calculation using numpy`
 - **[2026-09-23 12:25:51]** `feat: create recording interface with live camera preview`
 - **[2026-09-23 15:05:51]** `feat: add filler words detection module`
+- **[2026-09-23 21:27:22]** `fix: resolve CORS policy headers for FastAPI endpoints`

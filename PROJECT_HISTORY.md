@@ -104,3 +104,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-22 19:27:55]** `chore: setup environment variable template in .env.example`
 - **[2026-09-23 10:32:14]** `refactor: decouple video streaming logic from analysis worker`
 - **[2026-09-23 10:35:25]** `fix: resolve frame drift during prolonged recording sessions`
+- **[2026-09-23 11:12:07]** `refactor: optimize landmarks distance calculation using numpy`

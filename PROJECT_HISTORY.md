@@ -119,3 +119,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-25 19:44:16]** `fix: correct audio sampling rate conversion to 16kHz`
 - **[2026-09-25 20:01:53]** `docs: add guidelines for running AI backend locally`
 - **[2026-09-25 20:41:50]** `fix: correct calculation of overall speaking performance grade`
+- **[2026-09-26 17:10:43]** `fix: resolve layout overflow on small screen devices`

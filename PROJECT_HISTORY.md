@@ -143,3 +143,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-01 09:58:49]** `docs: write comments explaining gaze tracking vector math`
 - **[2026-10-01 15:19:55]** `refactor: improve error handling in external API client`
 - **[2026-10-01 16:08:06]** `feat: add dark mode support to frontend presentation dashboard`
+- **[2026-10-01 16:44:34]** `feat: setup REST API endpoints for Laravel to Python communication`

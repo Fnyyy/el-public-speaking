@@ -141,3 +141,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-09-30 19:35:53]** `refactor: restructure Laravel controllers and service classes`
 - **[2026-10-01 09:41:17]** `style: format blade templates with Tailwind CSS utilities`
 - **[2026-10-01 09:58:49]** `docs: write comments explaining gaze tracking vector math`
+- **[2026-10-01 15:19:55]** `refactor: improve error handling in external API client`

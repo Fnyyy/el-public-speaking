@@ -156,3 +156,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-05 09:02:35]** `refactor: polish logging format for backend service`
 - **[2026-10-05 12:41:43]** `feat: setup REST API endpoints for Laravel to Python communication`
 - **[2026-10-05 14:39:18]** `refactor: optimize landmarks distance calculation using numpy`
+- **[2026-10-05 17:50:34]** `fix: resolve layout overflow on small screen devices`

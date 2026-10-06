@@ -159,3 +159,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-05 17:50:34]** `fix: resolve layout overflow on small screen devices`
 - **[2026-10-05 20:17:16]** `feat: add eye contact gaze vector calculation`
 - **[2026-10-05 21:05:57]** `feat: add pacing and words-per-minute (WPM) calculation`
+- **[2026-10-06 08:12:12]** `refactor: organize Blade component hierarchy for speech reports`

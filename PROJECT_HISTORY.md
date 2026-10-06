@@ -163,3 +163,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-06 13:12:17]** `refactor: organize Blade component hierarchy for speech reports`
 - **[2026-10-06 14:27:04]** `perf: optimize frame processing rate for MediaPipe analyzer`
 - **[2026-10-06 17:19:35]** `feat: support audio playback and waveform visualization`
+- **[2026-10-06 19:01:31]** `refactor: extract posture calculation thresholds into configuration`

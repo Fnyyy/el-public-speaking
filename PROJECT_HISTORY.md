@@ -180,3 +180,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-09 08:27:36]** `test: add feature tests for Laravel speech session routes`
 - **[2026-10-09 13:09:18]** `refactor: clean up audio preprocessing and temporary file handling`
 - **[2026-10-09 13:24:57]** `fix: handle network timeouts when contacting Gemini AI`
+- **[2026-10-09 13:44:59]** `refactor: optimize landmarks distance calculation using numpy`

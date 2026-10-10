@@ -183,3 +183,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-09 13:44:59]** `refactor: optimize landmarks distance calculation using numpy`
 - **[2026-10-09 19:41:35]** `docs: document REST API endpoints and payload schemas`
 - **[2026-10-09 21:43:20]** `docs: write comments explaining gaze tracking vector math`
+- **[2026-10-10 20:33:05]** `fix: resolve layout overflow on small screen devices`

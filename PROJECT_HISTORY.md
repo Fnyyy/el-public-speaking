@@ -194,3 +194,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-13 08:17:01]** `chore: clean up temporary build artifacts and test recordings`
 - **[2026-10-13 12:07:41]** `fix: handle unsupported video codec format during upload`
 - **[2026-10-13 14:17:17]** `refactor: extract posture calculation thresholds into configuration`
+- **[2026-10-13 15:29:25]** `refactor: standardize status codes and error responses`

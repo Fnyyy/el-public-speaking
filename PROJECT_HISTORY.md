@@ -192,3 +192,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-12 17:14:24]** `fix: resolve layout overflow on small screen devices`
 - **[2026-10-12 19:29:58]** `feat: create feedback export summary in PDF format`
 - **[2026-10-13 08:17:01]** `chore: clean up temporary build artifacts and test recordings`
+- **[2026-10-13 12:07:41]** `fix: handle unsupported video codec format during upload`

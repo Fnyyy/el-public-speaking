@@ -201,3 +201,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-14 11:29:01]** `chore: update npm build scripts and vite configuration`
 - **[2026-10-14 15:29:25]** `feat: add eye contact gaze vector calculation`
 - **[2026-10-14 16:12:13]** `perf: batch frame analysis to reduce memory consumption`
+- **[2026-10-14 19:38:58]** `feat: add dark mode support to frontend presentation dashboard`

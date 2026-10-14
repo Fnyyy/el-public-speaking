@@ -197,3 +197,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-13 15:29:25]** `refactor: standardize status codes and error responses`
 - **[2026-10-13 15:59:41]** `chore: setup environment variable template in .env.example`
 - **[2026-10-13 21:48:24]** `feat: add head pose estimation (pitch, yaw, roll)`
+- **[2026-10-14 09:10:27]** `style: improve dashboard UI responsiveness on mobile devices`

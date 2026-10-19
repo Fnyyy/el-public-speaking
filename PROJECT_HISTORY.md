@@ -217,3 +217,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-16 20:34:02]** `refactor: improve error handling in external API client`
 - **[2026-10-17 10:26:59]** `feat: implement Google Gemini API feedback generator`
 - **[2026-10-18 14:51:44]** `feat: create recording interface with live camera preview`
+- **[2026-10-19 09:48:44]** `docs: add guidelines for running AI backend locally`

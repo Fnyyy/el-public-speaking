@@ -219,3 +219,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-18 14:51:44]** `feat: create recording interface with live camera preview`
 - **[2026-10-19 09:48:44]** `docs: add guidelines for running AI backend locally`
 - **[2026-10-19 11:24:50]** `docs: document REST API endpoints and payload schemas`
+- **[2026-10-19 12:15:39]** `chore: setup environment variable template in .env.example`

@@ -231,3 +231,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-20 20:19:38]** `fix: resolve layout overflow on small screen devices`
 - **[2026-10-21 13:08:11]** `style: improve dashboard UI responsiveness on mobile devices`
 - **[2026-10-21 16:30:25]** `feat: implement real-time webcam processing loop`
+- **[2026-10-21 17:06:44]** `feat: add Indonesian filler words dictionary (eh, um, anu, ya)`

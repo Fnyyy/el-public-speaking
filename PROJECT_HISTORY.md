@@ -239,3 +239,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-22 14:24:07]** `feat: add custom recommendations based on speaking score`
 - **[2026-10-22 15:21:32]** `test: integration test between web frontend and AI backend`
 - **[2026-10-22 18:51:59]** `docs: document REST API endpoints and payload schemas`
+- **[2026-10-22 20:09:37]** `refactor: restructure Laravel controllers and service classes`

@@ -246,3 +246,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-23 11:53:06]** `docs: document REST API endpoints and payload schemas`
 - **[2026-10-23 12:17:20]** `chore: update composer dependencies and package lock`
 - **[2026-10-23 12:42:01]** `feat: integrate speech recognition for audio transcription`
+- **[2026-10-23 15:41:32]** `fix: prevent memory leak in OpenCV video capture release`

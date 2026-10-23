@@ -241,3 +241,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-22 18:51:59]** `docs: document REST API endpoints and payload schemas`
 - **[2026-10-22 20:09:37]** `refactor: restructure Laravel controllers and service classes`
 - **[2026-10-22 20:52:33]** `feat: setup REST API endpoints for Laravel to Python communication`
+- **[2026-10-23 08:56:41]** `fix: correct calculation of speech pause durations`

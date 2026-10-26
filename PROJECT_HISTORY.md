@@ -251,3 +251,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-25 11:42:26]** `perf: cache session analytics query results`
 - **[2026-10-26 09:02:00]** `refactor: organize Blade component hierarchy for speech reports`
 - **[2026-10-26 13:07:15]** `refactor: extract posture calculation thresholds into configuration`
+- **[2026-10-26 14:37:38]** `fix: correct calculation of speech pause durations`

@@ -259,3 +259,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-27 10:59:41]** `chore: configure .gitignore for temporary uploads and models`
 - **[2026-10-27 11:25:51]** `chore: update Python dependencies in requirements.txt`
 - **[2026-10-27 14:10:44]** `fix: adjust posture confidence score normalization`
+- **[2026-10-27 15:15:41]** `test: add unit tests for filler word tokenization`

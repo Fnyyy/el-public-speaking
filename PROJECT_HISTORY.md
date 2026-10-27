@@ -257,3 +257,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-26 21:13:41]** `chore: setup environment variable template in .env.example`
 - **[2026-10-27 10:03:18]** `fix: eliminate jitter in eye contact tracking landmarks`
 - **[2026-10-27 10:59:41]** `chore: configure .gitignore for temporary uploads and models`
+- **[2026-10-27 11:25:51]** `chore: update Python dependencies in requirements.txt`

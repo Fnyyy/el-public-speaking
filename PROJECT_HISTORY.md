@@ -267,3 +267,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-28 14:39:28]** `perf: batch frame analysis to reduce memory consumption`
 - **[2026-10-28 21:16:46]** `docs: write comments explaining gaze tracking vector math`
 - **[2026-10-28 21:29:20]** `feat: add Indonesian filler words dictionary (eh, um, anu, ya)`
+- **[2026-10-29 08:06:46]** `chore: configure .gitignore for temporary uploads and models`

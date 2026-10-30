@@ -277,3 +277,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-30 11:33:48]** `fix: correct calculation of overall speaking performance grade`
 - **[2026-10-30 12:06:22]** `docs: update README with architecture diagram and setup guide`
 - **[2026-10-30 15:58:17]** `refactor: decouple video streaming logic from analysis worker`
+- **[2026-10-30 16:19:05]** `feat: add filler words detection module`

@@ -275,3 +275,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-29 21:07:20]** `refactor: polish logging format for backend service`
 - **[2026-10-30 08:34:02]** `feat: add vocal volume modulation and tone variance tracker`
 - **[2026-10-30 11:33:48]** `fix: correct calculation of overall speaking performance grade`
+- **[2026-10-30 12:06:22]** `docs: update README with architecture diagram and setup guide`

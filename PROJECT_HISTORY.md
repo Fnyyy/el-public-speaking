@@ -273,3 +273,4 @@ Dokumen ini mencatat log simulasi progres commit repositori dari fase inisiasi h
 - **[2026-10-29 13:23:38]** `refactor: improve response payload formatting for /api/analyze`
 - **[2026-10-29 18:10:03]** `refactor: decouple video streaming logic from analysis worker`
 - **[2026-10-29 21:07:20]** `refactor: polish logging format for backend service`
+- **[2026-10-30 08:34:02]** `feat: add vocal volume modulation and tone variance tracker`
